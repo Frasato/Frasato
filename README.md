@@ -11,9 +11,7 @@
 
 ## 🧠 Sobre mim
 
-```txt
 Sou um Desenvolvedor Full Stack com experiência na construção de aplicações web e mobile, combinando habilidades sólidas de programação com uma mentalidade voltada à resolução de problemas. Meu foco está em criar soluções confiáveis, performáticas e fáceis de usar.
-```
 
 ## 🎯 Foco no momento
 
