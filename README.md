@@ -1,39 +1,77 @@
-<h3 align="left">Hi 👋! My name is Gabriel and I'm a Full Stack Developer</h3>
+<h1 align="center">Gabriel Frasato</h1>
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> • Spring Boot • NextJS • Kotlin
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-frasato/">LinkedIn</a> •
+  <a href="https://github.com/Frasato">GitHub</a> •
+  <a href="mailto:gabriel.frasato@hotmail.com">Email</a>
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frasato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frasato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 🧠 Sobre mim
 
-###
+```txt
+Sou um Desenvolvedor Full Stack com experiência na construção de aplicações web e mobile, combinando habilidades sólidas de programação com uma mentalidade voltada à resolução de problemas. Meu foco está em criar soluções confiáveis, performáticas e fáceis de usar.
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+## 🎯 Foco no momento
 
-###
+- 📚 Estudando: Arquitetura de software e Testes
+- 🛠 Melhorando: Código limpo e boas práticas
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-frasato/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/frasato" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-</div>
+## 📊 Estatísticas do GitHub
 
-###
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Frasato&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frasato&theme=dark" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 Ecommerce API
+> Uma api que permite a venda de produtos, com funcionalidades de adição de promoções com encerramentos automáticos, métricas de clicks, vendas e adição ao carrinho, integração com meios de pagamentos e calculos de frete.
+
+- ⚙️ Tecnologias: Java, Spring Boot, JPA, Hibernate, Swagger, PostgreSQL, OAuth e JWT
+- 🔗 https://github.com/Frasato/Ecommerce_API
+
+---
+
+### 🔹 Cadastro de Leads
+> Uma app mobile que permite cadastrar informações de usuários e salvar em um banco de dados, onde são mostrados em uma aplicação web, podendo ser exportados para PDF ou visualizados no dashboard.
+
+- ⚙️ Tecnologias: Node, NestJS, React, PostgreSQL, PrismaORM e Kotlin
+- 🔗 https://github.com/Frasato/Leads_Mobile_App
+
+
+## 🧰 Stack
+
+**Linguagens:**
+`Java` `Typescript` `Kotlin`
+
+**Frameworks:**
+`Spring Boot` `NextJS` `NestJS`
+
+**Observability:**
+`Prometheus` `Grafana`
+
+**Tests:**
+`Jest` `JUnit`
+
+**Ferramentas:**
+`Git` `Docker` `Android Studio`
+
+
+<!--
+## 📚 Aprendizado contínuo
+
+- Colocar cursos futuros quando eu for pagar a plataforma
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
